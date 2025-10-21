@@ -1,6 +1,6 @@
 # 📊 Análise de Vendas - Tableau
 
-Este projeto foi desenvolvido pra aprender funcionalidades do Tableau.
+Este projeto foi desenvolvido pra aprender funcionalidades do Tableau, utilizando um DataSet público do Kaggle sobre vendas de uma empresa.
 
 O dashboard foi criado no Tableau.
 
